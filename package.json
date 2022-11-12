@@ -1,0 +1,50 @@
+{
+  "name": "nightwatch-tesults",
+  "version": "1.0.0",
+  "description": "Nightwatch Tesults Reporter",
+  "main": "nightwatch-tesults.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tesults/nightwatch-tesults.git"
+  },
+  "keywords": [
+    "nightwatch",
+    "nightwatch.js",
+    "nightwatchjs",
+    "tesults",
+    "reporter",
+    "test",
+    "automation",
+    "automated",
+    "dashboard",
+    "reporting"
+  ],
+  "author": {
+    "name": "Tesults",
+    "email": "help@tesults.com",
+    "url": "https://www.tesults.com"
+  },
+  "contributors": [
+    {
+      "name": "Ajeet Dhaliwal",
+      "email": "ajeet.dhaliwal@tesults.com"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Ajeet Dhaliwal",
+      "email": "ajeet.dhaliwal@tesults.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tesults/nightwatch-tesults/issues"
+  },
+  "homepage": "https://github.com/tesults/nightwatch-tesults#readme",
+  "dependencies": {
+    "tesults": "^1.1.3"
+  }
+}
