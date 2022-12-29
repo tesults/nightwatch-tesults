@@ -1,6 +1,6 @@
 {
   "name": "nightwatch-tesults",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Nightwatch Tesults Reporter",
   "main": "nightwatch-tesults.js",
   "scripts": {
